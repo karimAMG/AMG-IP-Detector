@@ -13,7 +13,7 @@ check who is connected with you on the same network
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/31169019/45849164-edc12600-bd28-11e8-9761-0161fd1388d9.gif)
 
-
+Dependencies will be automatically installed.:
 ```
 python -m pip install sh
 python IPD.py
